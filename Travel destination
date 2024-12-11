@@ -1,1 +1,69 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Explore Beautiful Destinations</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header, footer {
+            background-color: #004d99;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+        main {
+            padding: 20px;
+        }
+        section {
+            margin-bottom: 20px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+        ul {
+            list-style-type: square;
+            padding-left: 20px;
+        }
+        li {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Explore Beautiful Destinations</h1>
+        <p>Your guide to the world’s most stunning locations</p>
+    </header>
+    <main>
+        <section>
+            <h2>Top Destinations</h2>
+            <p>Here are some must-visit destinations for your next adventure:</p>
+            <ul>
+                <li>Bali, Indonesia</li>
+                <li>Paris, France</li>
+                <li>Machu Picchu, Peru</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Destination Highlights</h2>
+            <p>Check out some of the breathtaking views from these places:</p>
+            <img src="https://via.placeholder.com/800x400" alt="A scenic view of Bali">
+            <img src="https://via.placeholder.com/800x400" alt="The Eiffel Tower in Paris">
+            <img src="https://via.placeholder.com/800x400" alt="Machu Picchu in Peru">
+        </section>
+    </main>
+    <footer>
+        <p>© 2024 Travel Adventures. All rights reserved.</p>
+        <p>Contact us: info@traveladventures.com</p>
+    </footer>
+</body>
+</html>
